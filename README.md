@@ -1,6 +1,6 @@
  Olá devs, seja bem-vindo!
 
-Sou um programador Back-End iniciante, mas já trabalho com projetos reais e funcionais , smeu foco sempre vai ser resolver problemas práticos do mercado.
+Sou um programador Back-End iniciante, mas já trabalho com projetos reais e funcionais , meu foco sempre vai ser resolver problemas práticos do mercado.
 
  Acredito que programar vai muito além de escrever código: é sobre encontrar soluções, superar erros e resolver a dor do cliente ou a necessidade de uma empresa.
 
